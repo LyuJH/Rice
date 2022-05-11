@@ -1,2 +1,0 @@
-# Rice
-rice disease recognition
