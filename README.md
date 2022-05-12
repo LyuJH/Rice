@@ -1,4 +1,6 @@
-文件链接
+由于文件较大，便将所用的文件存放在阿里云盘下
+文件链接https://www.aliyundrive.com/s/6eWz5MRXz9u
+
 #opt
 存放的是AIGO_C5MB开发板上/opt目录的文件，使用时在/opt/deploy/目录下输入node index.js即可，或者在/opt/deploy/目录下输入./test ./model ./images/*.jpg，推理结果存放在output文件夹下
 
